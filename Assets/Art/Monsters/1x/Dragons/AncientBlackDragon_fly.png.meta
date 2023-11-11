@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 89310a73436b9bb4fa22ec8444aa45b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074771fd9a5131e4ca84158438848fe6
+      internalID: -1796193194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef62fb6392b8844198e22074c0fede0
+      internalID: -277483365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986895bd95a146945b01b517a880e607
+      internalID: -1236731649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde5f7906f9fb74088b1bee1081d388
+      internalID: 1726499729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a75350cc2afea46b2c7ba3ccb0dceb
+      internalID: -744942192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5243dc04211ef1b41852d7e0bac2deea
+      internalID: -532511115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590451cefcaa2944ab925fd01da67fe1
+      internalID: 936305693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07bc2f78d207c54c9f30bdfb42c3d32
+      internalID: -1081357181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26042e915b014d5448c820328e64fe41
+      internalID: -803600077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe4616b53481a4fbc248d35ec53c45
+      internalID: 1016092771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73253cfc73c97a747af49cdca34458d0
+      internalID: 2062356565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d5432d0ac39d44dbb629bba701c1d3
+      internalID: 1383534207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a20b97b5a4b64dba0b25a95a59d91
+      internalID: 1285614875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae133c2da33e444782f36e36bb0203b
+      internalID: -813526633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66638388f90e8f94f8c235bba1353733
+      internalID: -597175728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBlackDragon_fly_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f635ebd023cae4584299791e935954
+      internalID: 628982332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AncientBlackDragon_fly_3: -277483365
+      AncientBlackDragon_fly_33: 1285614875
+      AncientBlackDragon_fly_28: -1830133738
+      AncientBlackDragon_fly_26: 251170369
+      AncientBlackDragon_fly_32: 1818277354
+      AncientBlackDragon_fly_41: -110434890
+      AncientBlackDragon_fly_21: 1434176447
+      AncientBlackDragon_fly_29: 2062356565
+      AncientBlackDragon_fly_14: -1305523843
+      AncientBlackDragon_fly_24: 757096413
+      AncientBlackDragon_fly_34: 2028282915
+      AncientBlackDragon_fly_37: -597175728
+      AncientBlackDragon_fly_7: 1726499729
+      AncientBlackDragon_fly_42: -874627996
+      AncientBlackDragon_fly_1: -1796193194
+      AncientBlackDragon_fly_19: -1716582351
+      AncientBlackDragon_fly_5: -1236731649
+      AncientBlackDragon_fly_22: 1445685980
+      AncientBlackDragon_fly_11: -532511115
+      AncientBlackDragon_fly_13: 936305693
+      AncientBlackDragon_fly_23: 421396909
+      AncientBlackDragon_fly_43: 678194351
+      AncientBlackDragon_fly_2: 2060398405
+      AncientBlackDragon_fly_6: -17834267
+      AncientBlackDragon_fly_4: 432765056
+      AncientBlackDragon_fly_16: -938039892
+      AncientBlackDragon_fly_36: 550839207
+      AncientBlackDragon_fly_27: 1016092771
+      AncientBlackDragon_fly_8: 823748143
+      AncientBlackDragon_fly_30: 156396669
+      AncientBlackDragon_fly_17: -52112772
+      AncientBlackDragon_fly_18: -1010874910
+      AncientBlackDragon_fly_15: -1081357181
+      AncientBlackDragon_fly_0: -373395114
+      AncientBlackDragon_fly_44: -1443552789
+      AncientBlackDragon_fly_47: 408170903
+      AncientBlackDragon_fly_31: 1383534207
+      AncientBlackDragon_fly_12: -1677163934
+      AncientBlackDragon_fly_40: -1155407266
+      AncientBlackDragon_fly_10: 1740060681
+      AncientBlackDragon_fly_38: -1348552037
+      AncientBlackDragon_fly_35: -813526633
+      AncientBlackDragon_fly_39: 628982332
+      AncientBlackDragon_fly_9: -744942192
+      AncientBlackDragon_fly_20: -1755889609
+      AncientBlackDragon_fly_45: 1717780075
+      AncientBlackDragon_fly_46: 892896937
+      AncientBlackDragon_fly_25: -803600077
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
